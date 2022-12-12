@@ -260,6 +260,7 @@ def serialized_identifiers():
         'WebKit::GraphicsContextGLIdentifier',
         'WebKit::IPCConnectionTesterIdentifier',
         'WebKit::IPCStreamTesterIdentifier',
+        'WebKit::LegacyCustomProtocolID',
         'WebKit::LibWebRTCResolverIdentifier',
         'WebKit::MDNSRegisterIdentifier',
         'WebKit::MarkSurfacesAsVolatileRequestIdentifier',
